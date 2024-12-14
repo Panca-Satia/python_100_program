@@ -1,5 +1,5 @@
 # rumus kerucut
-# created by Arsa
+# created by Panca
 # 8-10-2024
 
 print('\n')

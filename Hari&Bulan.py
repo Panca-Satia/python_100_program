@@ -31,7 +31,7 @@ elif bulan == 9:
 elif bulan == 10:
     print('Oktober')
 elif bulan == 11:
-    print('Novermber')
+    print('November')
 elif bulan == 12:
     print('Desember')
 
